@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/blockDoor.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/bomb.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/border.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/BossScuf.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/door.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/emptyHeart.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/EndScreen.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/enemy.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/firstItem.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/halfHeart.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/halfLeanHeart.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/heart.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/isaac1.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/jug.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/leanHeart.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/leftAnims.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/luke.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/MainScreen.jpg</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/pause.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/puddle.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/rightAnims.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/room.png</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/SpriteText.spritefont</File>
+    <File>D:/Rider Projects/MyGame/MyGame/Content/tear.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>blockDoor</File>
+    <File>bomb</File>
+    <File>border</File>
+    <File>BossScuf</File>
+    <File>door</File>
+    <File>emptyHeart</File>
+    <File>EndScreen</File>
+    <File>enemy</File>
+    <File>firstItem</File>
+    <File>halfHeart</File>
+    <File>halfDroppedHeart</File>
+    <File>heart</File>
+    <File>isaac.png</File>
+    <File>jug</File>
+    <File>droppedHeart</File>
+    <File>rightAnims</File>
+    <File>luke</File>
+    <File>MainScreen</File>
+    <File>pause</File>
+    <File>puddle</File>
+    <File>leftAnims</File>
+    <File>room</File>
+    <File>SpriteText</File>
+    <File>tear</File>
+  </DestFiles>
+</SourceFileCollection>
